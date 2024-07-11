@@ -1,0 +1,31 @@
+{
+  "name": "currency-converter-vl",
+  "version": "1.0.0",
+  "description": "Simplified Currency Conversion in Node js Without API Calls",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijay75740/Currency-Converter-Nodejs.git"
+  },
+  "keywords": [
+    "currency",
+    "converter",
+    "number",
+    "word",
+    "exchange",
+    "library"
+  ],
+  "author": "Vijay Lunagariya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vijay75740/Currency-Converter-Nodejs/issues"
+  },
+  "homepage": "https://github.com/vijay75740/Currency-Converter-Nodejs#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "request": "^2.88.2"
+  }
+}
