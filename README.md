@@ -109,7 +109,11 @@ currencyConverter.from("CAD").to("HRK").amount(125).convert().then((response) =>
 
 ## Disclaimer
 
-This package uses web scraping to provide the api.
+This package uses web scraping to provide the API.
+
+Explore 1500+ Veg Indian recipes at [Hubrecipes](https://hubrecipes.com/), find cooking inspiration, and create kitchen wins with Simply Recipes.
+
+
 
 ## Issues
 
